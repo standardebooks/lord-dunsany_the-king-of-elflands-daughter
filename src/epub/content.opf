@@ -27,8 +27,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">The King of Elfland's Daughter</dc:title>
-		<meta property="file-as" refines="#title">King of Elfland's Daughter, The</meta>
+		<dc:title id="title">The King of Elfland’s Daughter</dc:title>
+		<meta property="file-as" refines="#title">King of Elfland’s Daughter, The</meta>
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
@@ -59,7 +59,7 @@
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2"> Mary Meehan</dc:contributor>
+		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
