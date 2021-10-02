@@ -32,43 +32,44 @@
 		<dc:subject id="subject-1">Fantasy fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85047114</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fantasy</meta>
+		<dc:description id="description">The people of Erl want magic, and get their wish.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The people of the obscure village Erl demand to be ruled by a magic lord, so their ruler sends his son Alveric to Elfland to wed the elfin princess Lirazel. He brings her back to Erl, and the couple have a son. However, Lirazel has trouble integrating with human society. When a scheme by her father spirits her back and Elfland vanishes, Alveric begins a mad quest to find where Elfland went. Meanwhile, their son grows up a hunter with magic in his blood.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/lord-dunsany"&gt;Lord Dunsany&lt;/a&gt; was the eighteenth Baron of Dunsany, Ireland. His early twentieth-century writings were influential on the fantasy genre, especially &lt;a href="https://standardebooks.org/ebooks/h-p-lovecraft"&gt;H. P. Lovecraft&lt;/a&gt;. He also wrote dramas, and once had five active plays in New York. He was popular in America, and known as “America’s favorite peer.” In addition to writing, Dunsany was a hunter and rider. He was a strong chess player, and invented a variant called Dunsany’s Chess.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The King of Elfland’s Daughter&lt;/i&gt; is written in a pseudo-archaic style of prose that Dunsany is known for, and that is somewhat polarizing. Some contemporaries thought the style did not work well for a novel-length work; on the other hand, contemporary Irish writer George Russell called the book “the most purely beautiful thing Lord Dunsany has written.” The book touches on a range of thematic topics, including longing for fanstatical things lost, the perception of time, sanity versus madness, the fear of the unknown, and being careful what you wish for. Large passages are also devoted to hunting; the original edition even displayed an illustration of a unicorn hunt opposite the title page. Neil Gaiman wrote an introduction to the 1999 edition, and Christopher Lee was a featured vocalist on a 1977 progressive rock album based on the book.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/61077</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<dc:source>https://archive.org/details/elfland_2</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_King_of_Elfland%27s_Daughter</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-dunsany_the-king-of-elflands-daughter</meta>
 		<dc:creator id="author">Lord Dunsany</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
+		<meta property="file-as" refines="#author">Dunsany, Lord</meta>
+		<meta property="se:name.person.full-name" refines="#author">Edward John Moreton Drax Plunkett, 18th Baron of Dunsany</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lord_Dunsany</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80005394</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80005394</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">August Heinrich</dc:contributor>
+		<meta property="file-as" refines="#artist">Heinrich, August</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://de.wikipedia.org/wiki/August_Heinrich_(Maler)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">https://lccn.loc.gov/n89603657</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Weeks, Grek</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Mary Meehan</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Richard Schneider</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Schneider, Richard</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://schneiderbox.net</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -119,6 +120,7 @@
 		<item href="text/chapter-34.xhtml" id="chapter-34.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/dedication.xhtml" id="dedication.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -130,6 +132,7 @@
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="dedication.xhtml"/>
 		<itemref idref="preface.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="chapter-1.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
