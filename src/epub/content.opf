@@ -53,7 +53,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">August Heinrich</dc:contributor>
 		<meta property="file-as" refines="#artist">Heinrich, August</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://lccn.loc.gov/n89603657</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n89603657</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Greg Weeks</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Weeks, Grek</meta>
