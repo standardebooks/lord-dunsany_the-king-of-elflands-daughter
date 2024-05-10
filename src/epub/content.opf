@@ -41,7 +41,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/61077</dc:source>
 		<dc:source>https://archive.org/details/elfland_2</dc:source>
 		<meta property="se:word-count">69699</meta>
-		<meta property="se:reading-ease.flesch">67.52</meta>
+		<meta property="se:reading-ease.flesch">67.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_King_of_Elfland%27s_Daughter</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-dunsany_the-king-of-elflands-daughter</meta>
 		<dc:creator id="author">Lord Dunsany</dc:creator>
