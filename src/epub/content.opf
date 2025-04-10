@@ -45,7 +45,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_King_of_Elfland%27s_Daughter</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lord-dunsany_the-king-of-elflands-daughter</meta>
 		<dc:creator id="author">Lord Dunsany</dc:creator>
-		<meta property="file-as" refines="#author">Dunsany, Lord</meta>
+		<meta property="file-as" refines="#author">Dunsany</meta>
 		<meta property="se:name.person.full-name" refines="#author">Edward John Moreton Drax Plunkett, 18th Baron of Dunsany</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Lord_Dunsany</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80005394</meta>
